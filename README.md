@@ -12,3 +12,4 @@ This is a repository for the GeoPark Earth Data Science Workshops, Spring 2024. 
 | Fabio | fabioaco | https://fabioaco.github.io/ |
 | Adriana | AGomezPrada | https://AGomezPrada.github.io/Phyton-Course_2/|
 | Carlos | Carlos-Diaz-Lozano | https://Carlos-Diaz-Lozano.github.io/ |
+| Julio | Jcavilarincon |  https://jcavilarincon.github.io/github_Jcavilarincon2.github.io/ |
